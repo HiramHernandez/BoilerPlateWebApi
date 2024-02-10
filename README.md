@@ -56,7 +56,8 @@ en caso de usar otro editor como Visual Studio Code se tendria que valer de la l
 
    	Restauramos 
     	dotnet restore
-     	Ejecutamos:
+     	
+      	Ejecutamos:
       	dotnet run
 
 Si no se presentaron problemas ya es posbible empezar a derivar un nuevo proyecto.
