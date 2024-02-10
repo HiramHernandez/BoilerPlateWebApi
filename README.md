@@ -60,6 +60,8 @@ en caso de usar otro editor como Visual Studio Code se tendria que valer de la l
       	Ejecutamos:
       	dotnet run
 
+       Eliminar la carpeta .git para asignarle un repositorio propio
+
 Si no se presentaron problemas ya es posbible empezar a derivar un nuevo proyecto.
 
 
